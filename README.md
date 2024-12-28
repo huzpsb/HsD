@@ -1,0 +1,2 @@
+# HsD
+Detect root / Xposed
